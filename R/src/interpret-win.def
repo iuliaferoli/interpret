@@ -1,4 +1,0 @@
-LIBRARY interpret.dll
-
-EXPORTS
-   R_init_interpret

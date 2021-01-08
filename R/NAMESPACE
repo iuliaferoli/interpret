@@ -1,4 +1,0 @@
-export(ebm_classify)
-export(ebm_predict_proba)
-export(ebm_show)
-useDynLib(interpret, .registration = TRUE)
